@@ -1,0 +1,4 @@
+studynote
+=========
+
+root directory
